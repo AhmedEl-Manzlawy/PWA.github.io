@@ -5,8 +5,8 @@
   "background_color": "#fff",
   "display": "standalone",
   "orientation": "portrait",
-  "scope": "/",
-  "start_url": "/",
+  "scope": "/AhmedEl-Manzlawy/PWA.githup.io",
+  "start_url": "/AhmedEl-Manzlawy/PWA.githup.io",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
