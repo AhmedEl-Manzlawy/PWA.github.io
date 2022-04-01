@@ -5,8 +5,8 @@
   "background_color": "#fff",
   "display": "standalone",
   "orientation": "portrait",
-  "scope": "/AhmedEl-Manzlawy/PWA.github.io",
-  "start_url": "/AhmedEl-Manzlawy/PWA.github.io",
+  "scope": "https://ahmedel-manzlawy.github.io/PWA.github.io/",
+  "start_url": "https://ahmedel-manzlawy.github.io/PWA.github.io/",
 
   "icons": [
     {
